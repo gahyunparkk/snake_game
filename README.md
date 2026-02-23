@@ -16,4 +16,3 @@ g++ -o play_game ScoreBoard.cpp MapInit.cpp SnakeGame.cpp main.cpp -lncurses
 ./main
 ```
 
-![Image](https://github.com/user-attachments/assets/25c336b2-2c72-4884-8611-7a0631d70674)
