@@ -10,4 +10,17 @@ make
 make install
 ```
 
+```
+// cpp
+#include <ncurses.h>
+
+int main()
+{
+  initscr();
+  printw("Hello World!");
+  refresh();
+  endwin()'
+  return 0;
+}
+```
 2. 
