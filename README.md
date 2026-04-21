@@ -84,3 +84,11 @@ g++ -o play_game ScoreBoard.cpp MapInit.cpp SnakeGame.cpp main.cpp -lncurses
 - **SnakeGame.cpp**: 뱀의 이동, 아이템 처리, 게임 로직 전반을 관리합니다.
 - **MapInit.cpp**: 4단계 스테이지별 맵 구조를 초기화하고 렌더링합니다.
 - **ScoreBoard.cpp**: 현재 점수, 획득 아이템, 스테이지 미션 달성 현황을 우측 화면에 표시합니다
+
+---
+
+## 📺 게임 플레이 영상 (Demo Video)
+
+[![Snake Game Play Video](https://img.youtube.com/vi/m0fpE1VW1-g/0.jpg)](https://www.youtube.com/watch?v=m0fpE1VW1-g)
+
+> 🔗 [전체 플레이 영상 보기 (YouTube)](https://www.youtube.com/watch?v=m0fpE1VW1-g)
